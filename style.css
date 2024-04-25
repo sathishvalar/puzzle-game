@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url(https://img.freepik.com/free-vector/gradient-question-mark-pattern_23-2149405529.jpg?w=1800&t=st=1714038784~exp=1714039384~hmac=c0e20fe0a67cd5ef89641fab3da7f9270f1e2feca69ff7affb69171356e3d9bf) ;
+    background-size: cover;
+    background-repeat: no-repeat
+    ;
+    background-attachment: fixed;
+}
+
+div{
+    background-color: rgb(63, 156, 238);
+    width: 500px;
+    height: 300px;
+    margin-left: 500px;
+    margin-top: 200px;
+    border-radius: 10px;
+    border: 3px dotted red;
+}
+h1{
+    padding-left: 100px;
+    margin-top: 10px;
+    font-style: italic;
+
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding: 5px;
+    border-color: none;
+}
+button{
+    margin-left: 190px;
+    width: 100px;
+    margin-top: 15px;
+    border-radius: 10px;
+    height: 50px;
+    padding: 5px;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+    
+    
+}
+p{
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: larger;
+    
+}
